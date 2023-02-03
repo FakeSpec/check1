@@ -34,7 +34,7 @@ h4 {
   font-size: 50px;
 }
 .logo {
-    color: darkcyan;
+    color: white;
     font-size: 200px;
 }
 .thumbnail {
@@ -197,35 +197,35 @@ footer .glyphicon {
 }
 
 @media screen and (max-width: 768px) {
-        .col-sm-4 {
-              text-align: center;
-              margin: 25px 0;
-           
+    ï¿½ ï¿½ .col-sm-4 {
+        ï¿½ ï¿½ ï¿½ text-align: center;
+        ï¿½ ï¿½ ï¿½ margin: 25px 0;
+        ï¿½ ï¿½
     }
 
-        .btn-lg {
-              width: 100%;
-              margin-bottom: 35px;
-           
+    ï¿½ ï¿½ .btn-lg {
+        ï¿½ ï¿½ ï¿½ width: 100%;
+        ï¿½ ï¿½ ï¿½ margin-bottom: 35px;
+        ï¿½ ï¿½
     }
 
-        .jumbotron {
-              background: linear-gradient(to bottom, blue 50%, #ffcccc 100%);
-              color: yellow;
-              padding: 100px 25px;
-              font-family: Montserrat, sans-serif;
-                 
+    ï¿½ ï¿½ .jumbotron {
+        ï¿½ ï¿½ ï¿½ background: linear-gradient(to bottom, blue 50%, #ffcccc 100%);
+        ï¿½ ï¿½ ï¿½ color: yellow;
+        ï¿½ ï¿½ ï¿½ padding: 100px 25px;
+        ï¿½ ï¿½ ï¿½ font-family: Montserrat, sans-serif;
+        ï¿½ ï¿½ ï¿½ ï¿½ ï¿½
     }
 
-        .col-xs-3 {
-              width: 10%;
-           
+    ï¿½ ï¿½ .col-xs-3 {
+        ï¿½ ï¿½ ï¿½ width: 10%;
+        ï¿½ ï¿½
     }
 
-        .col-xs-6 {
-              width: 100%;
-           
+    ï¿½ ï¿½ .col-xs-6 {
+        ï¿½ ï¿½ ï¿½ width: 100%;
+        ï¿½ ï¿½
     }
 
-     
+    ï¿½
 }
